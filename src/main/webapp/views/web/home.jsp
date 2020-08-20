@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Trang chủ</title>
 </head>
 <body>
-
+<h1>xin chào tao là trang chủ</h1>
 </body>
 </html>
