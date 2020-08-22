@@ -1,6 +1,6 @@
 package com.codegym.model;
 
-public class UserModel {
+public class UserModel extends AbstractModel<UserModel>{
 	private String userName;
 	private String fullName;
 	private String password;

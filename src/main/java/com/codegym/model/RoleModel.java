@@ -1,6 +1,6 @@
 package com.codegym.model;
 
-public class RoleModel {
+public class RoleModel extends AbstractModel<RoleModel>{
 	private String code;
 	private String name;
 	public String getCode() {

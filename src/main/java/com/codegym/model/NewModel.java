@@ -1,6 +1,6 @@
 package com.codegym.model;
 
-public class NewModel {
+public class NewModel extends AbstractModel<NewModel>{
 	private String title;
 	private String thumbnail;
 	private String shortDescription;
