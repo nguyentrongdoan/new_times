@@ -1,5 +1,5 @@
 package com.codegym.model;
 
-public class AbstractModel {
+public class AbstractModel<T> {
 
 }
